@@ -8,8 +8,8 @@ Manage parking slots, real-time vehicle entry/exit, fee billing, FIFO overflow q
 
 ## 🌟 Live Links
 
-- **GitHub Repository:** [https://github.com/24rautsp/smart-parking-management-system](https://github.com/24rautsp/smart-parking-management-system)
-- **GitHub Pages Interactive Web Dashboard:** [https://24rautsp.github.io/smart-parking-management-system/](https://24rautsp.github.io/smart-parking-management-system/)
+- **GitHub Repository:** [https://github.com/kratikasharnagat/smart-parking-management-system](https://github.com/kratikasharnagat/smart-parking-management-system)
+- **GitHub Pages Interactive Web Dashboard:** [https://kratikasharnagat.github.io/smart-parking-management-system/](https://kratikasharnagat.github.io/smart-parking-management-system/)
 
 ---
 
@@ -248,7 +248,7 @@ Because GitHub Pages only supports static files, deploying the Python Flask back
 2. Go to **[Render.com](https://render.com)** and sign up / log in with your GitHub account.
 3. Click **"New +"** $\rightarrow$ select **"Web Service"**.
 4. Choose **"Build and deploy from a Git repository"** and connect your repo:
-   `24rautsp/smart-parking-management-system`
+   `kratikasharnagat/smart-parking-management-system`
 5. Configure the settings:
    - **Name:** `smart-parking-management-system`
    - **Environment:** `Python 3`
